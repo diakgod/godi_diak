@@ -5,8 +5,8 @@
 ;
 ;2015/05/03 Gödi Gitárosok
 ;
-NGödi Gitáros énekek
-RGödi Gitáros énekek
+ Gödi Gitáros énekek
+ Gödi Gitáros énekek
 
 ;************************
 >Agnus Dei
