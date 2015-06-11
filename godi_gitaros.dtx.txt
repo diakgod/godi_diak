@@ -9,6 +9,7 @@
 ; Gödi Gitáros énekek
 ; Gyorke beleirt
 ; Reni beleirt
+; Laci beleirt
 ;************************
 >Agnus Dei
 /1
