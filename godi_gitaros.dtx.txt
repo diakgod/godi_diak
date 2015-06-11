@@ -7,7 +7,7 @@
 ;
  Gödi Gitáros énekek
  Gödi Gitáros énekek
-
+;diak2 beleirt
 ;************************
 >Agnus Dei
 /1
