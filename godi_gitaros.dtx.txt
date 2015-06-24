@@ -5,11 +5,9 @@
 ;
 ;2015/05/03 Gödi Gitárosok
 ;
-; Gödi Gitáros énekek
-; Gödi Gitáros énekek
-; Gyorke beleirt
-; Reni beleirt
-; Laci beleirt
+NGödi Gitáros énekek
+RGödi Gitáros énekek
+
 ;************************
 >Agnus Dei
 /1
