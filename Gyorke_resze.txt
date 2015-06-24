@@ -1,3 +1,14 @@
+;**************************************
+; Gödi Gitáros énekek
+;
+; 25 karakter egy sor
+;
+;2015/05/03 Gödi Gitárosok
+;
+NGödi Gitáros énekek
+RGödi Gitáros énekek
+
+;************************
 >Agnus Dei
 /1
 #00000000
