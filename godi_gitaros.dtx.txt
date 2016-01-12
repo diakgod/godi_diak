@@ -1728,14 +1728,14 @@ Szent vagy:I szent vagy, szent vagy, szent vagy, mindenségnek Ura, Istene,
 >Üdvözlégy Mária Z.280
 /1
 #00000000
- Üdvözlégy Mária, magasztal teljes, az Úr van Teveled.
- Áldott vagy Te az asszonyok között
- És áldott a Te méhednek gyümölcse, Jézus.
+ \Gem;Üdvözlégy M\GC;ária, m\Gam;agasztal t\GD;eljes, \GG;az Úr van T\Gam;evel\GH7;ed.
+ \Gam;Áldott v\GD;agy Te az \GG;asszonyok k\Gem;özött
+ És \Gam;áldott \GD;a Te m\Gem;éhednek gy\GH7;ümölcse, \Gem;ó\GA; J\Gem;ézus\GD7;.
 /2
 #00000000
- Asszonyunk Szűz Mária, Istennek Szent Anyja.
- Imádkozz érettünk, bűnösökért.
- Most és halálunk óráján, Ámen.
+ \GG;Asszonyunk Sz\GD;űz Mári\GG;a, \GE;Istennek Szent Anyj\Gam;a.
+ \Gam;Imádkozz \Gem;érettünk, b\GC;űnösök\GH7;ért.
+ M\Gem;ost és h\GG;alálunk \Gam;óráj\GH7;án, Ám\Gem;en. \Gem7;\Gem6;\GH7;
 ;************************
 >Várj és ne félj T.48
 /1
@@ -1744,28 +1744,25 @@ Szent vagy:I szent vagy, szent vagy, szent vagy, mindenségnek Ura, Istene,
  Wait for the Lord: keep watch, take heart!
 /2
 #00000000
- Várj és ne félj, az Úr jön már.
- Várj és ne félj: hű szívvel várj!
+ V\Gem;árj és ne f\GC;élj, az Ú\Gam6;r jön m\GH;ár.
+ V\Gem;árj \GD;és ne f\GC;élj: hű sz\Gam7;ívv\GH;el v\Gem;árj!
 
 ;************************
 >Volt egyszer egy király K.228
 /1
 #00000000
-\GC; \GG7; \GC; \GD0; \GC; \GG7; \GC; \GDo;
  V\GC;olt egyszer e\GG7;gy király, ma\GC; is él, kö\GDo;ztünk jár.
  O\GC;rszágát n\Gdm;e keressd té\Ggm;rképei\GG7;d felett.
  Hi\GC;ntója so\GG7;se volt, mi\GC;ndig csak gya\GDo;logolt,
  szo\GC;lgákat ne\Gdm;m akart, szo\Gam;lgálni Ő\Ggm; akart.
 /2
 #00000000
-\GC; \GG7; \GC; \GD0; \GC; \GG7; \GC; \GD0;
  V\GC;olt egyszer e\GG7;gy király, fö\GC;ldre jött, kö\GDo;zénk állt.
  M\GC;indenkit sze\dm;retett, se\am;nkit meg ne\GG7;m vetett.
  Ta\GC;nított te\GG7;reken, he\GC;gytetőn, ré\GDo;teken,
  é\GC;telt, i\Gdm;talt adott, be\Gam;teget gyó\Ggm;gyított.
 /3
 #00000000
-\GC; \GG7; \GC; \GD0; \GC; \GG7; \GC; \GD0;
  V\GC;olt egyszer e\GG7;gy király, ve\GC;lünk élt, kö\GDo;ztünk járt,
  a\GC;z emberek gyű\Gdm;lölték, e\Gam;lfogták, me\GG7;gölték;
  de\GC; feltámadt, vi\GG7;sszatért, ne\GC;gyven nap kö\GDo;ztünk élt,
@@ -1778,7 +1775,6 @@ Szent vagy:I szent vagy, szent vagy, szent vagy, mindenségnek Ura, Istene,
  tá\Gdm;n észre se\Gem;m veszed, ú\Gam;gy fogja ké\GG7;t kezed!:|
 
 ;************************
-
 ;S **************************************
 
 >Mert Te Uram
