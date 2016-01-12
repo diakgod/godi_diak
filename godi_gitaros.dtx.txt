@@ -1751,28 +1751,31 @@ Szent vagy:I szent vagy, szent vagy, szent vagy, mindenségnek Ura, Istene,
 >Volt egyszer egy király K.228
 /1
 #00000000
- Volt egyszer egy király, ma is él, köztünk jár.
- Országát ne keressd térképeid felett.
- Hintója sose volt, mindig csak gyalogolt,
- szolgákat nem akart, szolgálni Ő akart.
+\GC; \GG7; \GC; \GD0; \GC; \GG7; \GC; \GDo;
+ V\GC;olt egyszer e\GG7;gy király, ma\GC; is él, kö\GDo;ztünk jár.
+ O\GC;rszágát n\Gdm;e keressd té\Ggm;rképei\GG7;d felett.
+ Hi\GC;ntója so\GG7;se volt, mi\GC;ndig csak gya\GDo;logolt,
+ szo\GC;lgákat ne\Gdm;m akart, szo\Gam;lgálni Ő\Ggm; akart.
 /2
 #00000000
- Volt egyszer egy király, földre jött, közénk állt.
- Mindenkit szeretett, senkit meg nem vetett.
- Tanított tereken, hegytetőn, réteken,
- ételt, italt adott, beteget gyógyított.
+\GC; \GG7; \GC; \GD0; \GC; \GG7; \GC; \GD0;
+ V\GC;olt egyszer e\GG7;gy király, fö\GC;ldre jött, kö\GDo;zénk állt.
+ M\GC;indenkit sze\dm;retett, se\am;nkit meg ne\GG7;m vetett.
+ Ta\GC;nított te\GG7;reken, he\GC;gytetőn, ré\GDo;teken,
+ é\GC;telt, i\Gdm;talt adott, be\Gam;teget gyó\Ggm;gyított.
 /3
 #00000000
- Volt egyszer egy király, velünk élt, köztünk járt,
- az emberek gyűlölték, elfogták, megölték;
- de feltámadt, visszatért, negyven nap köztünk élt,
- győzött a szeretet, halálból élet lett!
+\GC; \GG7; \GC; \GD0; \GC; \GG7; \GC; \GD0;
+ V\GC;olt egyszer e\GG7;gy király, ve\GC;lünk élt, kö\GDo;ztünk járt,
+ a\GC;z emberek gyű\Gdm;lölték, e\Gam;lfogták, me\GG7;gölték;
+ de\GC; feltámadt, vi\GG7;sszatért, ne\GC;gyven nap kö\GDo;ztünk élt,
+ győ\GC;zött a sze\Gdm;retet, ha\Gam;lálból é\Ggm;let lett!
 /4
 #00000000
- |:Elment a jó király, de országa nyitva áll.
- Hallgasd a csend szavát, meghallod hívását.
- Ő soha nem hagy el, szólj csak és átölel,
- tán észre sem veszed, úgy fogja két kezed!:|
+ |:E\GC;lment a jó\GG7; király, de o\Gam;rszága nyi\GG7;tva áll.
+ Ha\Gdm;llgasd a cse\Gem;nd szavát, me\Gam;ghallod hí\GG7;vását.
+ Ő\GC; soha ne\GG7;m hagy el, szó\Gam;lj csak és á\GG7;tölel,
+ tá\Gdm;n észre se\Gem;m veszed, ú\Gam;gy fogja ké\GG7;t kezed!:|
 
 ;************************
 
