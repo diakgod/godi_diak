@@ -1702,28 +1702,34 @@ Szent vagy:I szent vagy, szent vagy, szent vagy, mindenségnek Ura, Istene,
  fény a sötétben csak Te vagy nekem,
  hallod  imám, és bármi fenyeget,
  nem hagy el engem, tart a Te kezed.
-;************************
+************************
 >Uram, irgalmazz K.129B
 /1
 #00000000
- Jézus Krisztus, Téged elküldött az Atya, hogy gyógyítsd a megtört szívűeket.
- Uram irgalmazz nekünk! (3x)
+ J\GA6;ézus Krisztus, Téged \GG6;elküldött az Atya, hogy gy\GA;ógyítsd a megtört sz\GD;ívűeket.
+ Uram \GD;irgalmazz nekünk!
+ Uram \Gem;irgalm\GA;azz nekü\GG;nk!\GD;
+ Uram \Gem;irgalm\GA;azz nekü\GG;nk!\GD;
 /2
 #00000000
- Jézus Krisztus, Te eljöttél hozzánk, hogy hivjad a bűnös embereket.
- Krisztus, kegyelmezz nekünk! (3x)
+ J\GA6;ézus Krisztus, Te \GG6;eljöttél hozzánk, hogy h\GA;ivjad a bűnös \GD;embereket.
+ Krisztus, k\GD;egyelmezz nekünk!
+ Krisztus, k\Gem;egyelm\GA;ezz nekü\GG;nk!\GD;
+ Krisztus, k\Gem;egyelm\GA;ezz nekü\GG;nk!\GD;
 /3
 #00000000
- Jézus Krisztus, Te az Atya jobbján ülsz, hogy értünk örökre közbenjárj.
- Uram, irgalmazz nekünk! (3x)
+ J\GA6;ézus Krisztus, Te az\GG6; Atya jobbján ülsz, hogy \GA;értünk örökre k\GD;özbenjárj.
+ Uram \GD;irgalmazz nekünk!
+ Uram \Gem;irgalm\GA;azz nekü\GG;nk!\GD;
+ Uram \Gem;irgalm\GA;azz nekü\GG;nk!\GD;
 ;************************
 >Uram, Tehozzád futok K.353
 /1
 #00000000
  Uram,
- I: Tehozzád futok, élő vízre szomjazom, közelséged ó mily jó énnekem. Kérlek, ne menj el tőlem, légy mindig segítségem, úgy kívánlak Téged, Istenem.
- Én pedig szüntelen remélek, egyre jobban dicsérlek, ajkam beszéli a Te igazságodat.
- Hadd legyen most a dalom jó illat oltárodon, nagyon szeretlek Téged, Jézusom. Uram :I
+ I: T\Gem;ehozzád futok, \GD;élő v\Ghm7;ízre szomjazom, \Gem;közels\GC;éged ó mily j\GD;ó énnekem\Gem;. Kérlek, n\Gem;e menj el től\GD;em, légy mind\Ghm7;ig segítség\Gem;em, úgy kívá\GC;nlak T\GD;éged, Istenem\Gem;.
+ \Gem;Én pedig szüntelen remél\GD;ek, egyre job\Ghm7;ban dicsérlek\Gem;, ajkam b\Gam7;eszéli a Te \Gam;i\GFis;gazságodat\GH4;.
+ \GH;Hadd legyen most a dalom \GD;jó ill\Ghm7;at oltárodon\Gem;, nagyon sz\GC;eretlek Tég\GD;ed, Jézusom. \Gem;Uram :I
 ;************************
 >Üdvözlégy Mária Z.280
 /1
