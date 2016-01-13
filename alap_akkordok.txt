@@ -35,3 +35,9 @@
 \Ggm7;
 \Gam7;
 \Ghm7;
+
+\GA6;
+\GG6;
+
+\GDo;
+\GDiso;
