@@ -1508,201 +1508,251 @@ Szent vagy:I szent vagy, szent vagy, szent vagy, mindenségnek Ura, Istene,
 >Szeretet áradjon K.265
 /1
 #00000000
- Szeretet áradjon köztünk, szeretet gyúljon bennünk,
- szeretet törtsön el minket, add ezt nekünk Urunk,
- hadd legyünk testvéri szívvel, mindnyájan egyek Benned,
- lobbantsa lángra szívünket szereteted!
+ Sz\GD;eretet \GG;ár\Gem;adjon k\GA;öztünk, szeretet gy\GD;úlj\GFis;on benn\Ghm;ünk,
+ szeretet t\GG;örts\Gem;ön el m\GA;inket, add ezt nek\GD;ünk Ur\GD7;unk,
+ hadd legyünk t\GG;estv\Gem;éri sz\GA;ívvel, mindnyájan \GD;e\GFis;gyek Benn\Ghm;ed,
+ lobbantsa l\GG;ángr\Gem;a szív\GA;ünket sz\GDA7;eretet\GD;ed!
 ;************************
->199   Szeretünk Téged, Mária
+>Szeretünk Téged, Mária
 /1
 #00000000
- Nap, hold, csillagok szépen ragyogjatok,
- Máriához száll most az ének,
- kéklő tengerek, égig érő nagy hegyek,
- Máriát velünk köszöntsétek!
- |:Szeretünk Téged Mária, Mária,:|
- Te minden ember anyja vagy,
- az úton, |:kérünk el ne hagyj, el ne hagyj az úton…:|
+|:\GA; \GA7; \GD; \GE;:| \GE7; \GA;
+ \GA;Nap, hold, \GE7;csillagok, \GD;szépen ra\GE;gyogjatok,
+ \GA;Máriához \GD;száll most az \GC+m;é\GE;nek!
+ \GA;Kéklő \GE7;tengerek, \GD;égigérő \GE;nagy hegyek
+ \GA;Máriát \GE;velünk köszönt\GA;sé\GA;tek\GA7;! \GD; \GE; \GA; \GA7; \GD; \GE; \GE7; \GA;
+/Refr
+#00000000
+ \GA;Szeretünk Téged \GE;Mária, \GE7;Mária!
+ \GE;Szeretünk Téged \GA;Mária, \GA;Mária!
+ Te \GA;minden ember anyja \GD;vagy,
+ |:az \GE;úton, kérünk \GA;el ne hagyj, el ne \GD;hagyj,:|
+ az \GE;úton!
 /2
 #00000000
- Édesanyánk melegét, gyermekének örömét,
- s mindent megköszönünk Néked,
- hét tőr fájdalmát, szent fiad halálát,
- s mindent megköszönünk Néked.
- |:Szeretünk Téged Mária, Mária,:|
- Te minden ember anyja vagy,
- az úton, |:kérünk el ne hagyj, el ne hagyj az úton…:|
+ \GA;Édesanyánk \GE7;melegét, \GD;gyermekévek \GE;örömét,
+ \GA;mindent \GD;megköszönünk \GC+m;Né\GE;ked.
+ \GA;Hét tőr \GE7;fájdalmát, \GD;szent Fiad \GE;halálát,
+ \GA;mindent \GE;megköszönünk \GA;Né\GA;ked\GA7;!\GD; \GE; \GA; \GA7; \GD; \GE; \GE7; \GA;
+/Refr
+#00000000
+ \GA;Szeretünk Téged \GE;Mária, \GE7;Mária!
+ \GE;Szeretünk Téged \GA;Mária, \GA;Mária!
+ Te \GA;minden ember anyja \GD;vagy,
+ |:az \GE;úton, kérünk \GA;el ne hagyj, el ne \GD;hagyj,:|
+ az \GE;úton!
+
 ;************************
 >Szívem Telve van Veled Z.296
 /1
 #00000000
- Szívem Telve van Veled. Drága Jézus, hű Megváltóm
- Hálát érzek mindazért, mit értem tettél, drága Jézus!
- Hogy elhívtál és befogadtál, nincsen más otthonom.
- Karod  óv, és átölel. Nálad van lakhelyem.
- Jöjj közel hát, ölelj most át, szükségem van Rád!
+ \GG;Szívem T\GD;elve van Vel\Gem;ed. Drága J\GC;ézus, \Gam;hű Megv\GD;áltóm
+ \GG;Hálát \GD;érzek mindaz\Gem;ért, mit értem tettél, \Gam;drága J\GD;ézus!
+ \Gam;Hogy elhívt\Gem;ál és b\GD;efogadt\GG;ál, \Gam;nincsen \Gem;más otthon\GD;om.
+ Karod  \GG;óv, és \GD;átöl\Gem;el. Nálad v\GG;an l\GD;akhely\Gem;em.
+ \Gam;Jöjj közel \Gem;hát, \GD;ölelj most \GC;át, 
+ szükségem v\GD;an R\GG;ád!\GD;\Gem;
+ \GD;szükségem van R\GG;ád!
 ;************************
 >Tápláló szent kenyér Z.224
 /1
 #00000000
- Tápláló szent kenyér, tápláló drága vér.
- Betölti szívemet a Végtelen!
- Békémnek záloga, lelkemnek otthona,
- Formáld át életem, légy velem!
+ Tápláló sz\GD;ent kenyér, tápláló d\Ghm;rága vér.
+ Betölti \Gem;szívemet a Végtel\GA;en!
+ Békémnek z\GD;áloga, lelkemnek \Ghm;otthona,
+ Formáld át \Gem;életem, légy vel\GA;em!
 ;************************
 >Tárd ki karod -k.202
 /1
 #00000000
- Tárd ki a karod, emeld fel arcodat,
- tűzben, viharban a Lélek látogat,
- nyisd ki a szemed, takard ki a szívedet,
- hajnali pírban a Lélek integet!
+ T\GC;árd ki a karod, emeld fel arcodat\Gam;,
+ t\Gdm;űzben, viharban a Lélek látogat\GG7;,
+ ny\GC;isd ki a szemed, takard ki a szívedet\Gam;,
+ h\Gdm;ajnali pírban a Lélek integet!\GH7;
  
- Kelj föl, te halott, hagyd el már sírodat!
- Úttalan útra a Lélek hívogat.
+ K\GF;elj föl, te h\Gam;alott, \Gdm;hagyd el már s\GG7;írodat!
+ \GF;Úttalan \Gam;útra a L\Gdm;élek hívogat.\GG7;
 /2
 #00000000
- Csak zúgjon az a szélvész, lángoljon az a tűz!
- Nincs többé visszatérés, forró szeretet űz!
- Várja szíved az oltár, hajolj a mély fölé,
- ki senkié sem voltál, legyél mindenkié!
+ Csak z\GF;úgjon az a szélvész, lángoljon az a tűz!\Gam;
+ N\GF;incs többé visszatérés, forró szeretet űz!\Gam;
+ \Gdm;Várja szíved az olt\GG7;ár, \GE;hajolj a mély fölé\Gdm;,
+ ki s\GF;enkié sem volt\GC;ál, l\GG7;egyél mindenkié\GC;!
 /3
 #00000000
- Kelj föl, te halott! Tárd ki a karod!
- Nyisd ki a szemed! Takard ki szívedet!
- A Lélek integet, a Lélek hívogat,
- a Lélek, a Lélek, a Lélek látogat!
+ K\GC;elj föl, te h\GF;alott! T\GD;árd ki a k\GG;arod!
+ \GE;Nyisd ki a sz\Gam;emed! T\GF;akard ki sz\GG7;íved\GC;et!
+ A L\GC;élek \GF;integet, a L\GDis;élek h\GG;ívogat,
+ a L \GE;élek, a L\Gam;élek, a L\GF;élek l\GG7;átog\GC;at!
 /4
 #00000000
- Csak zúgjon az a szélvész, lángoljon az a tűz!
- Nincs többé visszatérés, forró szeretet űz!
- Várja szíved az oltár, hajolj a mély fölé,
- ki senkié sem voltál, legyél mindenkié,
- legyél mindenkié, legyél mindenkié!…
+ Csak z\GF;úgjon az a szélvész, lángoljon az a tűz!\Gam;
+ N\GF;incs többé visszatérés, forró szeretet űz!\Gam;
+ \Gdm;Várja szíved az olt\GG7;ár,  \GE;hajolj a mély fölé\Gdm;,
+ ki s\GF;enkié sem volt\GC;ál, l\GG7;egyél mindenkié\GC;!
+ l\GG7;egyél mindenki\GCé, l\GG7;egyél mindenki\GCé!…
 ;************************
->Te vagy az út M.116
+>Te vagy az út M116
 /1
 #00000000
- Te vagy az út, az igazság, te vagy az élet!
- Hozzád megyek, áldom Neved, általad élek.
+ \GE;Te vagy az \GH7;út, az igaz\GA;ság, Te vagy az \GE;élet!
+ \GE;Hozzád \GH7;megyek áldom Ne\GA;ved, általad \GE;élek.
+ |:\GA;Megszabadítot\Gfism;tál, \GE;kenyeret s bort ad\Gcism;tál.
+ \GE;Tested és véred \GH7;táplál, hűséged \GE;éltet, alleluja!:| \GC7;
+/2
+#00000000
+ \GC7;
+ \GF;Te vagy az \GC;út, az igaz\GB;ság, Te vagy az \GF;élet!
+ \GF;Hozzád \GC;megyek áldom Ne\GB;ved, általad \GF;élek.
+ |:\GB;Megszabadítot\Ggm;tál, \GF;kenyeret s bort ad\Gdm;tál.
+ \GF;Tested és véred \GC7;táplál, hűséged \GF;éltet, alleluja!:|\GD7;
+/3
+#00000000
+ \GD7;
+ \GG;Te vagy az \GD;út, az igaz\GC;ság, Te vagy az \GG;élet!
+ \GG;Hozzád \GD;megyek áldom Ne\GC;ved, általad \GG;élek.
+ |:\GC;Megszabadítot\Gam;tál, \GG;kenyeret s bort ad\Gem;tál.
+ \GG;Tested és véred \GD7;táplál, hűséged \GG;éltet, alleluja!:|
  
- Megszabadítottál, kenyeret s bort adtál,
- Tested és Véred táplál, hűséged éltet, alleluja!
 ;************************
-
 >Tégy engem szívedre pecsétnek M.43
 /1
 #00000000
- Tégy engem szívedre pecsétnek,
- tégy engem pecsétnek karodra!
- Szerelmed erős, mint a végzet,
- könyörtelen a féltés pokla.
+ \GG;Tégy engem \GC;szívedre \GD;pecsét\GG;nek, 
+ \GG;tégy engem \GC;pecsétnek \GD;karodra!
+ \GC;Szerelmed \GG;erős, mint a végzet, 
+ \GC;könyörtelen a \GD;féltés pok\GG;la!
 /2
 #00000000
- Tűznek bokra, sziporkák csokra,
- merítsd bár sistergő habokba,
- a tenger alatt is lobogna.
+ \GAm;Tűznek bokra, \GHm;sziporkák csokra,
+ \GC;merítsd bár \GD;sistergő \GG;habokba,
+ a \GC;tenger alatt is \GD;lobog\GG;na!.
  
- Tégy engem szívedre pecsétnek,
- tégy engem pecsétnek karodra!
+ \GG;Tégy engem \GC;szívedre \GD;pecsét\GG;nek, 
+ \GG;tégy engem \GC;pecsétnek \GD;karodra!
 ;************************
 >Teremts bennem K.208   
 /1
 #00000000
- I: Teremts bennem tiszta szívet, ó, Uram, az erős lelket újítsd meg bennem. :l
- I: Ne vess el engem a Te orcád elől, Szentlelked ne vond meg tőlem, támogass az engedelmesség lekével, szabadításod örömét add nekem. :I
+  |:\GG;Teremts bennem \GD;tiszta szí\GC;vet, ó U\GG;ram!
+ Az \GEm;erős lelket \GD;újítsd meg ben\GG;nem!:|\GG7;
+ |:\GAm;Ne vess el en\GD;gem a Te or\GG;cád e\GEm7;lől!
+ \GAm;Szentlelkedet \GD;ne vond meg tő\GG;lem\GG7;!
+ \GAm;Támogass az \GD;engedelmes\GG;ség lelké\GEm7;vel!
+ \GAm7;Szabadításod \GD7;örömét add ne\GG;kem!\GG7;:|
 ;************************
 >Tied a dicsőség
 /1
 #00000000
- ll:Tied a dicsőség, és imádás,
- felemeljük kezeinket,
- Így dicsérjük szent Neved!:ll
+ ll:Tied a dics\GC;őség, és im\Gem;ádás,
+ fel\GF;emeljük keze\Gdm;inket,
+ Így dics\GG;érjük szent Neved!\GG7;:ll
 /2
 #00000000
- ll:Ó, hatalmas kezed nagy,
- csodákat tesz,
- Veled senki nem ér fel,
- Veled senki nem ér fel!:ll
+ ll:\GG;Ó, hatalmas kezed n\GC;agy,
+ csodákat t\Gam;esz,
+ Veled s\Gam;enki nem ér f\GF;el,
+ \Gdm;Veled s\GG;enki nem ér f\GG;el!:ll
 /3
 #00000000
- ll:Tied a dicsőség, és imádás,
- felajánljuk a szívünket,
- Így dicsérjük szent Neved!:ll
+ ll:Tied a dics\GC;őség, és im\Gem;ádás,
+ felaj\GF;ánljuk a szív\Gdm;ünket,
+ Így dics\GG;érjük szent Neved!\GG7;:ll
 /4
 #00000000
- ll:Ó, hatalmas kezed nagy,
- csodákat tesz,
- Veled senki nem ér fel,
- Veled senki nem ér fel!:ll
+ ll:\GG;Ó, hatalmas kezed n\GC;agy,
+ csodákat t\Gam;esz,
+ Veled s\Gam;enki nem ér f\GF;el,
+ \Gdm;Veled s\GG;enki nem ér f\GG;el!:ll
 ;************************
 >Tied vagyunk K.213
+/1
 #00000000
- A Föld és az ég, asztalunknál összeér, értünk lett Élet ez a bor és a  kenyér!
- Őáltala, Ővele, Őbenne tied vagyunk, tied vagyunk, tied vagyunk, tied vagyunk!
- |:Ments meg minket, táplálj minket.:|
- Ments meg minket!
- |:Jézus vére és teste az Élet itala és étele.:|
- |:Táplálj minket, ments meg minket!:|
+ A \Ghm;Föld és az \GE;ég, \GA;asztalunknál \GD;összeér, 
+ \GG;értünk lett \GA;Élet ez a \GD;bor és a  \Ghm;kenyér!
+ \GG;Őáltal\GA;a, Ővel\GD;e, Őben\Ghm;ne 
+ tied vagy\GA;unk, tied vagy\GG;unk, 
+ tied vagy\GA;unk, tied va\Ghm;gyunk!
+/2
+#00000000
+ \Ghm;Jézus vére és teste az\GFis; Élet itala és étele.
+ Ments meg minket, táplálj minket.
+  \Ghm;Jézus vére és \Gem;teste az\GFis; Élet itala és éte\Ghm;le.
+ Ments meg minket, táplálj minket.
+
+ \Ghm;                              \GG;táplálj min\GD;ket, m\GA;ents meg min\Ghm;ket!
+ Ments meg minket, táplálj minket, ments meg minket!
+/3
+#00000000
+ A \Ghm;Föld és az \GE;ég, \GA;asztalunknál \GD;összeér, 
+ \GG;értünk lett \GA;Élet ez a \GD;bor és a  \Ghm;kenyér!
+ \GG;Őáltal\GA;a, Ővel\GD;e, Őben\Ghm;ne 
+ tied vagy\GA;unk, tied vagy\GG;unk, 
+ tied vagy\GA;unk, tied va\Ghm;gyunk!
+/4
+#00000000
+ \Ghm;Jézus vére és teste az\GFis; Élet itala és étele.
+ Ments meg minket, táplálj minket.
+  \Ghm;Jézus vére és \Gem;teste az\GFis; Élet itala és éte\Ghm;le.
+ Ments meg minket, táplálj minket.
+
+ \Ghm;                              \GG;táplálj min\GD;ket, m\GA;ents meg min\Ghm;ket!
+ Ments meg minket, táplálj minket, ments meg minket!
+
 ;************************
 >Tisztítsd meg szemem S.173
 /1
 #00000000
- Tisztítsd meg szemem,
- hogy Téged lásson!
- Tisztítsd meg fülem,
- hogy Téged halljon!
- |:Nyisd meg szívem,
- hogy befogadjon!:| (3x)
- Nyisd meg szívem!
+ \GDm;Tisztítsd meg szemem, hogy Téged \GGm;lásson\GGm6;!\GDm;
+ \GDm;Tisztítsd meg fülem, hogy Téged \GGm;halljon\GGm6;!\GDm;
+ |:\GC7;Nyisd meg a \GF;szívem, hogy \GGm;befogadjon!:| (3x)
+ \GC7;Nyisd meg a \GF;szívem!
 /2
 #00000000
- Vidd a lábamat,
- hogy Hozzád érjen!
- Emeld két karom,
- hogy átöleljen!
- |:Mentsd meg a lelkem,
- hogy Benned éljek!:| (3x)
- Mentsd meg a lelkem!
+ \GDm;Vidd a lábamat, hogy Hozzád \GGm;érjen\GGm6;!\GDm;
+ \GDm;Emeld két karom, hogy átö\GGm;leljen\GGm6;!\GDm;
+ |:\GC7;Mentsd meg a \GF;lelkem, hogy \GGm;Benned éljek!:| (3x)
+ \GC7;Mentsd meg a \GF;lelkem!
 ;************************
 >Tüzed, Uram Jézus
 /1
 #00000000
- Tüzed, Uram Jézus szítsd a szívemben,
- lángja lobogjon elevenebben.
- Ami vagyok és mind, ami az enyém,
- tartsd a kezedben igazi helyén.
+ \GAm;Tüzed, \GAm7;Uram \GAm;Jézus, \GDm;szítsd a \GG;szívem\GC;ben,
+ \GD7;Láng\GE7;ja lo\GAm;bog\GAm7;jon \GDm6;ele\GE;veneb\GAm;ben!
+ \GAm;Ami \GAm7;vagyok \GAm;és mind, \GDm7;ami \GG;az e\GC;nyém,
+ \GD7;tartsd \GE;a ke\GAm;zed\GAm7;ben \GDm6;iga\GE;zi he\GAm;lyén!
 /2
 #00000000
- Életem kútja,  örök örömem,
- fény a sötétben csak Te vagy nekem,
- hallod  imám, és bármi fenyeget,
- nem hagy el engem, tart a Te kezed.
+ \GAm;Életem \GDm;kút\GDm7;ja, \GG;örök örö\GC;mem.
+ \GAm;Fény a sö\GDm;tétben \GG;csak Te vagy ne\GC;kem.
+ \GD7;Hal\GE7;lod i\GAm;mám, \GAm7;és \GDm;bármi \GG7;fenye\GC;get,
+ \GD7;nem \GE7;hagy el \GAm;en\GAm7;gem, \GDm6;tart a \GE;Te ke\GAm;zed!
 /3
 #00000000
- Szorongat a Sátán, de Te velem vagy,
- hű szabadítóm, aki el nem hagy.
- Ennek a világnak fekete egén
- lényed a csillag, sugarad a fény.
+ \GAm;Szoron\GAm7;gat a \GAm;Sátán, \GDm7;de Te \GG;velem \GC;vagy,
+ \GD7;hű \GE7;szaba\GAm;dí\GAm7;tó, \GDm6;aki \GE;el nem \GAm;hagy.
+ \GAm;Ennek \GAm7;a vi\GAm;lágnak \GDm7;feke\GG;te e\GC;gén
+ \GD7;lé\GE7;nyed a \GAm;csil\GAm7;lag, \GDm6;suga\GE;rad a \GAm;fény.
 /4
 #00000000
- Életem kútja,  örök örömem,
- fény a sötétben csak Te vagy nekem,
- hallod  imám, és bármi fenyeget,
- nem hagy el engem, tart a Te kezed.
+ \GAm;Életem \GDm;kút\GDm7;ja, \GG;örök örö\GC;mem.
+ \GAm;Fény a sö\GDm;tétben \GG;csak Te vagy ne\GC;kem.
+ \GD7;Hal\GE7;lod i\GAm;mám, \GAm7;és \GDm;bármi \GG7;fenye\GC;get,
+ \GD7;nem \GE7;hagy el \GAm;en\GAm7;gem, \GDm6;tart a \GE;Te ke\GAm;zed!
 /5
 #00000000
- Jön az örök nap  már, közeledik Ő,
- mennyei honba hazavinni jő.
- Röpke pillanat, míg tart a keserű,
- Jézus elém  jön, s örök a derű.
+ \GAm;Jön az \GAm7;örök \GAm;nap már, \GDm7;köze\GG;ledik \GC;Ő,
+ \GD7;men\GE7;nyei \GAm;hon\GAm7;ba \GDm6;haza\GE;vinni \GAm;jő.
+ \GAm;Röpke \GAm7;pilla\GAm;nat, míg \GDm7;tart a \GG;kese\GC;rű,
+ \GD7;Jé\GE7;zus e\GAm;lém \GAm7;jön, \GDm6;örök \GE;a de\GAm;rű.
 /6
 #00000000
- Életem kútja,  örök örömem,
- fény a sötétben csak Te vagy nekem,
- hallod  imám, és bármi fenyeget,
- nem hagy el engem, tart a Te kezed.
-************************
+ \GAm;Életem \GDm;kút\GDm7;ja, \GG;örök örö\GC;mem.
+ \GAm;Fény a sö\GDm;tétben \GG;csak Te vagy ne\GC;kem.
+ \GD7;Hal\GE7;lod i\GAm;mám, \GAm7;és \GDm;bármi \GG7;fenye\GC;get,
+ \GD7;nem \GE7;hagy el \GAm;en\GAm7;gem, \GDm6;tart a \GE;Te ke\GAm;zed!
+;************************
+
 >Uram, irgalmazz K.129B
 /1
 #00000000
