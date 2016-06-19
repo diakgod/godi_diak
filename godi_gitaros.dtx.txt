@@ -255,20 +255,35 @@ RGödi Gitáros énekek
  Alleluja.
 
 ;************************
->Áldásoddal megyünk K.18
+>Áldásoddal megyünk K.18-D
 /1
 #00000000
- Áldásoddal megyünk, megyünk innen el,
- Néked énekelünk boldog éneket.
- Te vagy mindig velünk, ha útra kelünk.
- Őrizd életünk minden nap.
+ \GD;Áldásoddal \GG;megyünk, \GEm;megyünk innen \GA;el.
+ \GD;Néked éneke\GG;lünk \GEm;boldog éne\GA;ket.
+ \GF+m;Te vagy mindig \GG;velünk, \GF+m;ha útra \GG;kelünk.
+ \GF+m;Őrizd éle\GG;tünk minden \GA;nap\GA7;!
 /2
 #00000000
- Minden nap dicsérünk Téged, jó Uram,
- Néked énekelünk vígan, boldogan.
- Maradj mindig velünk, ha útra kelünk.
- Őrizd életünk minden nap.
- …minden nap.
+ \GD;Mindennap di\GG;csérünk \GEm;Téged, jó U\GA;ram.
+ \GD;Néked éneke\GG;lünk \GEm;vígan, boldo\GA;gan.
+ \GF+m;Maradj mindig \GG;velünk, \GF+m;ha útra \GG;kelünk!
+ \GF+m;rizd éle\GG;tünk minden \GA;nap\GA7;!
+ …minden n\GD;ap.
+ 
+>Áldásoddal megyünk K.18-E
+/1
+#00000000
+ \GE;Áldásoddal \GA;megyünk, \GF+m;megyünk innen \GH;el.
+ \GE;Néked éneke\GA;lünk \GF+m;boldog éne\GH;ket.
+ \GG+m;Te vagy mindig \GA;velünk, \GG+m;ha útra \GA;kelünk.
+ \GG+m;Őrizd éle\GA;tünk minden \GH;nap\GH7;!
+/2
+#00000000
+ \GE;Mindennap di\GA;csérünk \GF+m;Téged, jó U\GH;ram.
+ \GE;Néked éneke\GA;lünk \GF+m;vígan, boldo\GH;gan.
+ \GG+m;Maradj mindig \GA;velünk, \GG+m;ha útra \GA;kelünk!
+ \GG+m;Őrizd éle\GA;tünk minden \GH;nap\GH7;!
+ …minden n\GE;ap.
 
 ;************************
 >Áldjátok az Urat K.19
@@ -295,7 +310,7 @@ RGödi Gitáros énekek
 
 ;************************
 >Áldott legyen az Úr K.23
-/2
+/1
 #00000000
  Áldott legyen az Úr, alleluja, alleluja!
  Megváltott bűneinkből, alleluja, alleluja!
@@ -319,6 +334,13 @@ RGödi Gitáros énekek
  A Lélek éljen bennünk, alleluja, alleluja!
  Szent az Úr, szent az Úr, Ő a kezdet és a vég!
  Szent az Úr, szent az Úr, Ő a kezdet és a vég!
+
+;************************
+>Alleluja Gável
+/1
+#00000000
+ \GG;Allel\GC9;uja
+ \Gem7;allel\GD4;uja
 
 ;************************
 >Alleluja K.24
@@ -444,7 +466,6 @@ RGödi Gitáros énekek
  Ki látod, mit teszek, hallgass el engem!
 
 ;************************
-
 >Atyám, tied vagyok K.357
 #00000000
  Atyám, Tied vagyok, és szüntelen imádlak, dicsőség szent nevednek!
@@ -519,6 +540,20 @@ RGödi Gitáros énekek
  mert az ő irgalma soha véget nem ér,
  újjáéled reggelre, minden reggelre,
  nagy a Te hűséged, ó, Uram, nagy a Te hűséged.
+
+;************************
+>Bennem élsz  K.204
+/1
+#00000000
+ Te b\GE;ennem élsz én B\GA;enned élek,
+ T\Gam;iéd e test, T\GE;iéd e lélek,
+ \GH7;enyém e perc az \GA;örök élet,
+ T\GA;e bennem \GE;élsz, Te b\GH7;ennem \GE;élsz.\GH7;
+ M\GE;ária tette, hogy T\GA;iéd lettem,
+ \Gam;örök szándékod t\GE;eljesítettem
+ m\GH7;eghalván Benned \GA;újraszülettem,
+ T\GA;e bennem \GE;élsz.T\GH7;e bennem \GA;élsz. \GE;
+
 ;************************
 >Boldogság, öröm az életem k.48
 /1
@@ -557,31 +592,41 @@ RGödi Gitáros énekek
  Dicső, fenséges Úr 's Király,
  ki az egeken trónol,
  bölcs, erős és szent a mi Istenünk!
+
 ;************************
->Mise IV. K.159
+>Dicsőség K.159
 /1
 #00000000
- Dicsőség a magasságban Istennek!
- És a földön békesség a jószándékú embernek!
- Dicsőítünk Téged, áldunk Téged,
- imádunk Téged, magasztalunk Téged,
- hálát adunk Neked, nagy dicsőségedért,
- Urunk és Istenünk, mennyei Király,
- mindenható Atyaisten!
+ \GF;D\GF;icsőség a m\GC7;agasságban \GC7;Istenn\GF;ek!
+ \GF;És a földön b\Ggm;ékesség a j\GC7;ószándékú e\Gdm;mbernek!
+ D\GH-;icsőítünk T\GC7;éged,\Ggm; áldunk T\Gdm;éged,
+ \GH-;imádunk T\GC7;éged,\Ggm; magasztalunk T\Gdm;éged,
+ h\GC7;álát adunk N\GF;eked,\Ggm; nagy dicsős\GF;égedért,
+ \GF;Urunk és \Ggm;Istenünk, \GC7;mennyei Király,\GF;
+ m\Ggm;indenható \GC7;Atyaist\GF;en!
+ \Ggm;\GC7;\GF;
 /2
 #00000000
- Urunk, Jézus Krisztus, egyszülött Fiú,
- Urunk és Istenünk, Isten báránya,
- az Atyának Fia, te elveszed a világ bűneit, irgalmazz nekünk!
- Te elveszed a világ bűneit,
- hallgasd meg könyörgésünket!
- Te az Atya jobbján ülsz: irgalmazz nékünk!
+ \GH-;Urunk, Jézus Kr\GC7;isztus, \Ggm;egyszülött Fiú,\Gdm;
+ \GH-;Urunk és \GC7;Istenünk, \Ggm;Isten b\Gdm;áránya,az \GC7;Atyának Fi\GF;a, 
+ Te \GF;elveszed a v\GE;ilág bűne\GA;it,\Gdm;irgalmazz n\Ggm;ekünk!\GGm;
+ Te \GF;elveszed a v\GE;ilág bűnei\GA;t,\Gdm;hallgasd meg könyörgésünk\Ggm;et!
+ Te az \GF;Atya jobbján \GE;ülsz: irgalmazz n\GA;ékünk!
 /3
 #00000000
- Mert egyedül te vagy a Szent, te vagy az Úr,
- te vagy az egyetlen Fölség:
- Jézus Krisztus, a Szentlélekkel együtt
- az Atyaisten dicsőségében! Amen!
+ Mert \GD;egyedül Te vagy a Szent, 
+ \GD;Te vagy az \GA;Úr,
+ \GA;Te vagy az \GF+m;egyetlen Föls\GE;ég:
+ \GE;Jézus Kr\GA;isztus, a Sz\GF+;entlélekkel e\Ghm;gyütt
+ az \GE;Atyaisten dicsőségéb\GA;en! \GG;A\GA;m\GD;en!
+ 
+;************************
+>Dicsőség K.299
+#00000000
+ I:D\GD;icsőség az Atyának, a F\GG;iúnak, a Szentléleknek! 
+ M\GD;iképpen kezdetben, m\GG;ost és mindörökké! 
+ Mint \GD;éltető harmat vagy napfény a v\GG;ölgyre, 
+ sz\GD;álljon úgy ránk az isteni b\GG;éke! :I D\GD;icsőség!
 
 ;************************
 >Égő, tüzes parázs K.4B
@@ -600,6 +645,7 @@ RGödi Gitáros énekek
  Égő, tüzes parázs,
  égesd, égesd a szám,
  ne tudjak hallgatni tovább!
+
 ;************************
 >Ez az a nap K.65
 /1
@@ -617,6 +663,44 @@ RGödi Gitáros énekek
  |:Eljön az Úr, eljön az Úr, akit úgy várunk, akit úgy várunk.:|
  Egy szívvel mondjuk, hogy jöjj vissza már, egy szívvel mondjuk, hogy jöjj vissza már,
  Jöjj el Uram, jöjj el Uram, jöjj el Úr Jézus!
+
+;************************
+>Énekelj az Úrnak K.61
+/1
+#00000000
+ |:\GC;Énekelj az Úrnak \GG;új éneket!
+ \GF;Énekelj az \GG;Úrnak egész \GC;Föld!:|
+ \GF;Éne\GG;kelj az \GAm;Úr\GDm;nak, \GF;áldjad nagy Ne\GC;vét\GC7;!
+ \GF;Hirdesd \GG;napról-\GAm;nap\GDm;ra az \GG;Ő di\GG7;csősé\GC;gét!
+/2
+#00000000
+ |:\GC;Énekelj az Úrnak \GG;új éneket!
+ \GF;Énekelj az \GG;Úrnak egész \GC;Föld!:|
+ \GF;Ékes\GG;ség, és \GAm;fen\GDm;ség \GF;van Őelőt\GC;te\GC7;.
+ \GF;Tisztes\GG;ség, és \GAm;méltó\GDm;ság az \GG;Ő \GG7;szent he\GC;lyén.
+/3
+#00000000
+ |:\GC;Énekelj az Úrnak \GG;új éneket!
+ \GF;Énekelj az \GG;Úrnak egész \GC;Föld!:|
+ \GF;Ujjong\GG;jon az \GAm;ég\GDm;, \GF;örvendjen a \GC;Föld\GC7;!
+ \GF;Harsog\GC;jon a \GAm;ten\GDm;ger és \GG;minden \GG7;benne é\GC;lő!
+
+;************************
+>Fogadj el! K.13C
+/1
+#00000000
+ K\GD;enyeret és b\GD+o;ort hozunk \GEo;oltárodra, Urunk,\GD;
+ V\Gem;edd ezt tőlünk, s h\GA;allgsd meg f\GD;elajánló dalunk.\GA;\GA#;
+ Te \GD;ismered a l\GD+o;elkemet, b\GEo;űnös fiad vagy\GD;ok,
+ B\Gem;ocsáss meg és f\GA;ogadd el m\GD;indazt, mit adhatok.\GA;\GA#;
+/2
+#00000000
+ K\GG;üldd el Lelked\GD;et, f\GF+;ormáld szívemet,\Ghm;
+ \GG;őrizd hűség\GD; em, szentelj meg!\GA;\GA#;
+ K\GG;üldd el Lelked\GD;et, f\GF+;ormáld szívemet,\Ghm;
+ h\GG;add legyek gyermek\GD; ed, fogadj el,\Gem;
+ \GA;  Ur\GG;am!\GD; 
+
 ;************************
 >Föltámadt! Alleluja! K.66
 /1
@@ -659,6 +743,7 @@ RGödi Gitáros énekek
  Jézus jön feléd!
  
  |:Föltámadt! Alleluja! Föltámadt, alleluja!:|
+
 ;************************
 >Ha nincs ki értsen
 /1
@@ -673,6 +758,7 @@ RGödi Gitáros énekek
  Élj bátran, légy nyilt, ez küldetés
  Hanincs ki értsen, nincs ki féltsen, nincs barát
  Az Isten küldi száz apró jelben vígaszát
+
 ;************************
 >Hála legyen (Isten a szépség) K.75
 /1
@@ -693,6 +779,29 @@ RGödi Gitáros énekek
  |:Téged Isten dicsérünk,
  hálát adunk mindenért,
  hát hála legyen, hála legyen, hála legyen!:|
+
+;************************
+>Hétköznapok Szentlelke K.69B
+/1
+#00000000
+ K\GG;önnyű kedvesnek l\GC;enni, mikor az \GG;embert nem bántja s\GD;emmi,
+ k\GC;önnyű szeretni \GG;azokat, akikkel n\GD;em foglalkoz\GD7;unk sok\GG;at.
+ D\GG;e ó, az a néhány \GC;ember, akiket gy\GG;őznöm kell türel\GD;emmel,
+ de \GC;azok a nehéz nap\GG;ok, amikor \GD;olyan ideg\GD7;es vagy\GG;ok.
+ \GG;Ó, az a néhány l\GC;élek, akikkel k\GG;özös lakásban \GD;élek,
+ az \GC;iskolat vagy a m\GG;unkahely, naponta sz\GD;ínig megtel\GD7;ő keh\GG;ely!
+/2
+#00000000
+ |:\GG;Isten Szentlelke sz\GC;állj r\Ghm;ám! \GC;\GD7;
+ N\GG;em csak a templomok \GC;árny\Ghm;án k\GC;ereslek én\GD;,
+ n\GG;e csak az ünnep glóri\GC;áj\Ghm;án l\GC;egyél enyém\GD7;!
+ H\GG;étköznapok Sz\Ghm;entlelke sz\GC;állj r\GD;ám,
+ A\GG;tya lángja, kr\GE;isztusi f\GD;ény, t\GC;ündökölj a h\GDo;étköznap eg\Gam;én,\GD;
+ hogy h\GC;étfőtől sz\GG;ombatigis\GC; legyél eny\Ghm;ém,
+ hogy h\GC;étfőtől sz\GG;ombatig is\GC; szeressek \GD;én, 
+ m\GC;indenkit sz\GD;eressek \GG;én!:|
+ \GG;Isten Szentlelke sz\GC;állj r\Ghm;ám!
+
 ;************************
 >Hozzád akarok tartozni S.386
 /1
@@ -707,6 +816,7 @@ RGödi Gitáros énekek
  Feléd akarok menni,
  Hozzád akarok érkezni,
  Tied akarok lenni!
+
 ;************************
 >Hűség K.81
 /1
@@ -729,6 +839,7 @@ RGödi Gitáros énekek
  hogyha már semmim nincsen,
  hűség, drága kincsem,
  én őrizlek a szívemben!:|
+
 ;************************
 >Ím eléd ünnepelni jöttünk
 /1
@@ -743,6 +854,14 @@ RGödi Gitáros énekek
  Áldott szeretet
  Abba, Atyánk
  Szent a Te neved!
+
+;************************
+>Irgalmazz énnekem K.299
+#00000000
+ \Gem;Irgalmazz \GD;énnekem, J\GG;ó Atyám, \GD;Istenem, \Gam;irgalmazz \Gem;énnekem, 
+ \Gem;Kegyelmezz J\GD;ézusom, m\GG;egváltó K\GD;risztusom, k\Gam;egyelmezz, J \Gem;ézusom, 
+ \Gem;irgalmazz m\GD;inékünk, Sz\GG;entlélek \GD;Istenünk! \Gam;Irgalmazz m\Gem;inékünk!
+
 ;************************
 >Isten Báránya M.46
 #00000000
@@ -752,6 +871,7 @@ RGödi Gitáros énekek
  …irgalmazz, irgalmazz nekünk!
  
  …adj nekünk, adj nekünk békét!
+
 ;************************
 >Isten Báránya K.158
 #00000000
@@ -761,21 +881,61 @@ RGödi Gitáros énekek
  …irgalmazz, irgalmazz nekünk!
  
  …adj nekünk, adj nekünk békét!
+
 ;************************
 >Isten Báránya K.159
+/1
 #00000000
- Isten Báránya, Te elveveszed a világ bűneit,
- irgalmazz, irgalmazz nekünk!
+ |:\Gdm;Isten Bárány\Ggm;a, Te \GH-;elveveszed a világ bűne\GF;it,
+ \Ggm;irgalmazz nekünk\GC7;, \GF;irgalmazz nekünk\Gdm;,
+ \Ggm;irgalmazz nekünk\GA;!:|
+ \Gdm;Isten Bárány\Ggm;a, Te \GH-;elveveszed a világ bűne\GF;it,
+ \Ggm;adj nekünk békét\GC7;, \GF;adj nekünk\Gdm;,
+ \Ggm;adj nekünk békét\GA;!
+
+;************************
+>Isten Báránya K.299
+/1
+#00000000
+ B\Gem;üneinket égi Bárány sz\Gam;ent vérednek dr\GD7;ága árán mi\GG;nd elveszed..
+ ..\GH7;Irgalmazz nek\Gem;em!
+  B\Gem;üneinket égi Bárány sz\Gam;ent vérednek dr\GD7;ága árán mi\GG;nd elveszed..
+ ..\GH7;Irgalmazz nek\Gem;ünk!
+ B\Gem;üneinket égi Bárány sz\Gam;ent vérednek dr\GD7;ága árán mi\GG;nd elveszed..
+ ..\GH7;Adj békét nekünk\Gem;!
  
- …irgalmazz, irgalmazz nekünk!
- 
- …adj nekünk, adj nekünk békét!
 ;************************
 >Isten báránya K.302D
 #00000000
  Isten báránya, te elveszed a világ bűneit, irgalmazz, irgalmazz nekünk!
  Isten báránya, te elveszed a világ bűneit, irgalmazz, irgalmazz nekünk!
  Isten báránya, te elveszed a világ bűneit, adj nekünk, adj nekünk békét!
+
+;************************
+>Itt vagyok végre jó Uram! K.93
+/1
+#00000000
+ \GD;Itt vagyok \GG;végre \GA;jó U\GD;ram!
+ \GD;Nehéz és \GG;hosszú \GA;volt u\GD;tam.
+ \GF;Szólnék \GC;hozzád, \GH-;nem tu\GC;dok,
+ \GH-;szememben \GC;látod, \GG;mit aka\GA;rok.
+/2
+#00000000
+ \GD;Eljöttem \GG;Hozzád, \GA;itt va\GD;gyok,
+ \GD;szomjas és \GG;éhes \GA;vándo\GD;rod.
+ \GF;Aszta\GC;lodról \GH-;adj en\GC;nem,
+ s \GH-;boldog \GC;lesz az \GG;éle\GA;tem!
+ 
+;************************
+>Ízleld és lásd K.334
+#00000000
+ Íz\GG;leld és lásd, hogy \GHm;jó az Úr!
+ Ó, íz\GC;leld és lásd, hogy az Úr \GD;jó\GD+o;!
+ \GEm;Boldog ember az, ki benne \GHm;bízik!
+ \GEm;Boldog ember az, ki benne \GD;bí\GD7;zik!
+ Ízleld és lásd...
+ Ő \GC;jó, Ő \GG;jó, Ő \GG;jó!
+ 
 ;************************
 >Jézus életem - In the Lord K.248
 /1
@@ -788,6 +948,7 @@ RGödi Gitáros énekek
  |:Jézus életem, erőm, békém, Jézus társam, örömöm.
  Benned bízom, Te vagy az Úr, már nincs mit félnem,
  mert bennem élsz, már nincs mit félnem, mert bennem élsz.:|
+
 ;************************
 >Jézusé lettem M.63
 #00000000
@@ -795,6 +956,7 @@ RGödi Gitáros énekek
  bárhová indul, Vele megyek én,
  bárhová vágyik, odaviszem Őt,
  rejtem a titkát vad szemek előtt.
+
 ;************************
 >Jézus néz rám M.223
 /1
@@ -836,11 +998,13 @@ RGödi Gitáros énekek
  Most rád bizom a szívemet,
  hogy mindig kedves, jó legyek,
  te is örülsz , hogy ha látod!
+
 ;************************
 >Jó az Úrban bizakodni K.249
 #00000000
  |:Bonum est confidere in Domino, bonum sperare in Domino.:|
  |:Jó az Úrban bizakodni, jó az Úr, remélj és bízz benne, jó az Úr.:|
+
 ;************************
 >Jó nekem
 /1
@@ -879,12 +1043,24 @@ RGödi Gitáros énekek
  Te vagy, ki úgy szeretsz
  Világot teremtesz
  Ajándék életem Tiéd
+
 ;************************
 >Jöjj el K.287
 #00000000
  I: Jöjj el, jöjj el, jöjj el Fénylő Láng, Szentlélek jöjj, szállj le ránk! Szent lélek jöjj, szállj le ránk!:I
  Jöjj el, jöjj, Igazság, remény, jöjj, maradj velünk, csodás fény! Ref.
  Jöjj el, jöjj, örök Szeretet, jöjj, tisztísd meg lelkünket! Ref.
+
+ ;************************
+>Jöjj hozzám K.290
+#00000000
+ |:\GD;Jöjj hozz\GD;ám, légy vel\GF+m;em,
+ örök b\Gem;ékéd, örök b\GG;ékéd add nekem!\GA;:|
+ \GD;Szeretetre vágyom, k\GF+m;ell egy hű barát, 
+ aki v\Gem;elem van és nem hagy el a n\GG;ehéz napokon át\GA;.
+ N\GD;e félj hát! Ő megsegít, f\GF+m;igyeljed szavát,
+ t\Gem;edd kezébe életed, s a b\GG;ékét add tovább!\GA;
+
 ;************************
 >Kenyered és borod M.119
 /1
@@ -905,6 +1081,7 @@ RGödi Gitáros énekek
  ajkamról most hála dala száll.
  Maradj velem, úgy kérlek, Jézus, maradj velem,
  Tied vagyok, s Neked élek már!
+
 ;************************
 >Király vagy K.293
 #00000000
@@ -915,21 +1092,61 @@ RGödi Gitáros énekek
  most fölemeljük kezeinket, 
  a trónod elé járulunk imádva légy !
  Most..
+ 
+;************************
+>Kisfiam (Sanctus) K.180B
+/1
+#00000000
+ K\GG;isfiam ülj ide m\Gam;ellém,
+ figyeld j\GD;ól\GD7;, amit most m\GG;ondok!
+ K\GE;isfiam, én csak \Gam;azt szeretném,\Gam7;\Gam6;
+ h\GD;ogy mindig j\GD7;ó légy és b\GG;oldog.\GD7;
+/2
+#00000000
+ É\GG;letünk rövid a f\Gam;öldön,
+ de l\GD;elkünk\GD7; örökre m\GG;egmarad, 
+ \GE;életünk rövid a f\Gam;öldön,\Gam7;\Gam6; 
+ és az\GD;idő gy\GD7;orsan \GG;elszalad.\GD7;
+/3
+#00000000
+ \GG;Kisfiam, még nagyon k\Gam;icsi vagy,
+ de \GD;egyszer\GD7; te is n\GG;agy leszel, 
+ n\GE;em érted most még e sz\Gam;avakat,\Gam7;\Gam6;
+ de k\GD;ésőbb s\GD7;okszor m\GG;ondd majd el!
+/4
+#00000000
+ Sz\GG;ent, s\Ghm;zent, sz\Gam;ent az \GD;Isten,
+  \GG;Ő a v\Ghm;ilág ura \Gam;és teremt\GD;ője.
+ D\GG;icsős\GE;ége b\Gam;etölti f\GD;öldünket
+  \GG;és mind\GE;ent amit az \Gam;ember m\GD;ég 
+  \GD;nem \GD7;ismerh\GG;et!
 ;************************
 >Köszönöm, Jézus K.127
 /1
 #00000000
- Köszönöm, Jézus, köszönöm, Jézus, köszönöm, Uram, hogy szeretsz engem,
- KöszönömJézus, köszönöm, Jézus, köszönöm, Uram, hogy szeretsz engem.
+ \GD;Köszönöm Jézus, \GD;köszönöm Jézus
+ \GD;Köszönöm U\GG;ram, hogy szeretsz en\GD;gem.
+ \GD;Köszönöm \GF+m;Jézus, köszönöm\Ghm; Jé\GG;zus
+ Köszönöm U\GD;ram, \GA;hogy sze\GA;retsz en\GD;gem.\GG;\GD;
 /2
 #00000000
- A Golgotára ment, és meghalt értem, köszönöm, Uram, hogy szeretsz engem. (2x)
+ A \GD;Golgotára ment, és \GD;meghalt értem.
+ \GD;Köszönöm U\GG;ram, hogy szeretsz en\GD;gem.
+ A \GD;Golgotára \GF+m;ment, és meghalt\Ghm; ér\GG;tem.
+ Köszönöm U\GD;ram, \GA;hogy sze\GA;retsz en\GD;gem.\GG;\GD;
 /3
 #00000000
- A harmadik napon Ő feltámadott, köszönöm, Uram, hogy szeretsz engem. (2x)
+ A \GD;harmadik napon, \GD;Ő feltámadott.
+ \GD;Köszönöm U\GG;ram, hogy szeretsz en\GD;gem.
+ A \GD;harmadik \GF+m;napon, Ő felt\Ghm;áma\GG;dott.
+ Köszönöm U\GD;ram, \GA;hogy sze\GA;retsz en\GD;gem.\GG;\GD;
 /4
 #00000000
- Ó, alleluja, ó, alleluja, köszönöm, Uram, hogy szeretsz engem. (2x)
+ \GD;Ó, halleluja, \GD;ó, halleluja!
+ \GD;Köszönöm U\GG;ram, hogy szeretsz en\GD;gem.
+ \GD;Ó halle\GF+m;luja, ó, hall\Ghm;elu\GG;ja!
+ Köszönöm U\GD;ram, \GA;hogy sze\GA;retsz en\GD;gem.\GG;\GD;
+
 ;************************
 >Krisztus Jézus született K.132
 /1
@@ -973,6 +1190,7 @@ RGödi Gitáros énekek
  csak egyet hagyj meg ajándékodul: Szeretnem Téged.
  Csak a szeretet maradjon enyém, a kegyelemmel,
  minden, de minden gazdagság enyém, más semmi nem kell.
+
 ;************************
 >Mária, jó Anyánk K.137
 /1
@@ -994,6 +1212,7 @@ RGödi Gitáros énekek
   nem hisznek semmiben,
  nem bíznak senkiben,
  ó mért, ó mért, ó mondd, miért?
+
 ;************************
 >Mária, Mária, szép virágszál M.183
 /Refr.1
@@ -1038,6 +1257,42 @@ RGödi Gitáros énekek
  Mária, szikrázó Nap,
  védelmezz, magyarok Nagyasszonya,
  imádkozz érettünk, Anyánk!
+
+;************************
+>Meghívtál, hogy vízre lépjek,(Hillsong Oceans)
+/1
+#00000000
+ \Ghm;Meghívtál, hogy vízre \GCis;l\GD;épjek, hol Nélkül\GA;ed elsüllyed\GG;ek.
+ \Ghm;Ebben megtalállak \GCis;T\GD;éged, a mélységb\GA;en megtart hit\GG;em.
+ \GG;És Nagy Nev\GD;ed hívom \GA;én, 
+ \GG;és felnéz\GD;ek a vizek föl\GA;é  Ott látlak 
+ \GG;én. A lelkem B\GD;enned megpih\GA;en. Enyém vagy 
+ \GG;és \GA;én Ti\Ghm;ed.
+ \GCis;\GD;\GA;\GG;
+/2
+#00000000
+ \Ghm;A mélységnél nagyobb k\GCis;egy\GD;elmed, mely elvez\GA;et és tart eng\GG;em.
+ \Ghm;Ha elbuknék, és nagy\GCis;on f\GD;élnék, Te nem hagysz \GA;el és nem inogsz m\GG;eg.
+ \GG;És Nagy Nev\GD;ed hívom \GA;én, 
+ \GG;és felnéz\GD;ek a vizek föl\GA;é  Ott látlak 
+ \GG;én. A lelkem B\GD;enned megpih\GA;en. Enyém vagy 
+ \GG;és \GA;én Ti\Ghm;ed.
+ \Ghm; \GCis;\GD;\GA;\GG;
+/3
+#00000000
+ \Ghm;\GG;\GD;\GA;
+ |: \Ghm;Lélek add, hogy Benned t\GG;eljesen megbízzak, 
+ A vízen b\GD;átran Veled járjak, s b\GA;árhová hívsz, menjek.
+ \Ghm;Vigyél tovább, mint a l\GG;ábam tudna menni. 
+ Taníts t\GD;eljes hittel járni, jel\GA;enlétedben élni.:| /3x
+/4
+#00000000
+ |:\GG;És Nagy Nev\GD;ed hívom \GA;én, 
+ \GG;és felnéz\GD;ek a vizek föl\GA;é  Ott látlak 
+ \GG;én. A lelkem B\GD;enned megpih\GA;en. Enyém vagy 
+ \GG;és \GA;én Ti\Ghm;ed.:|
+ \Ghm; \GCis;\GD;\GA;\GG;\Ghm;
+
 ;************************
 >Mentsd meg a lelkem K.144
 /1
@@ -1063,6 +1318,7 @@ RGödi Gitáros énekek
  
  |:Imádunk Téged, imádunk Téged,
  Imádunk Téged, ó Urunk!:|
+
  ;************************
  >Mert Te Uram
 #00000000
@@ -1070,6 +1326,7 @@ RGödi Gitáros énekek
  felma\GEm7;gasztaltattál \GA;minden isten fö\GD;lött\GD4;!\GD;:|
  
  |:Imádunk \GD;Téged, imádunk \GA;Téged, Imádunk \GEm7;Té\GG;ged, ó U\GA;runk\GA4;!\GA;:|
+
 ;************************
 >Mikulásra K.150
 /1
@@ -1096,6 +1353,7 @@ RGödi Gitáros énekek
  vidám, boldog  nevetéssel ünnepeljük  Mikulást.
  Mosoly ül az öreg arcán, merre ő megy hull a hó, röpíti szél, szánkó.
  Nálunk hagyja a szívét, reánk szórja örömét, nekünk adja jókedvét!
+
 ;************************
 >Mily nagy vagy Urunk
 /1
@@ -1125,6 +1383,7 @@ RGödi Gitáros énekek
  Minden név felett,
  A szívünk áld,
  Mily nagy vagy, Urunk!
+
 ;************************
 >Minden kincsem az M.216
 /1
@@ -1151,6 +1410,7 @@ RGödi Gitáros énekek
  
  Áldani mind jobban, áldani mind jobban,
  Minden kincsem az, hogy imádlak Téged, Jézusom!
+
 ;************************
 >Minden, mi él M.57
 /Refr.1
@@ -1195,6 +1455,7 @@ RGödi Gitáros énekek
  minden dicsér, mert mind a műved,
  azzal, hogy él, ezt zengi Néked:
  dicsérlek én, dicsérlek Téged!
+
 ;************************
 >Mint szarvas.. K.157
 /1
@@ -1213,6 +1474,7 @@ RGödi Gitáros énekek
  és fölemelt, Magához vont,
  kiválasztott, hogy meglássam arcát,
  ó, Jézus jöjj, úgy várok Rád!
+
 ;************************
 >Ne félj, mert megváltottalak! -k.344
 /Refr.1
@@ -1247,12 +1509,14 @@ RGödi Gitáros énekek
  neveden szólítottalak, 
  karjaimba zártalak, 
  örökre enyém vagy! :I
+
 ;************************
 >Néked hódolok Jézus S.128
 /1
 #00000000
  |:Néked hódolok Jézus, dicső király!:|
  |:Ujjongj, dalolj szívem és imádjad Őt!:|
+
 ;************************
 >Nem lesz egyedül K.212B
 /1
@@ -1306,27 +1570,45 @@ RGödi Gitáros énekek
  lángoljon a szívünk,
  közel van már üdvösségünk
  jöjj el Jézusunk, jöjj el Jézusunk!
+
 ;************************
 >Nézzétek ég madarait! K.171
 /1
 #00000000
- Nézzétek az ég madarait, nézzétek a rét virágait,
- csürökbe sosem gyűjtenek, mennyei Atyánk gondozza őket.
- Ki táplálja az ég madarait, ki öltözteti a rét virágait,
- jól tudja azt, hogy ezek kellenek, mért nyugtalan a szívetek?
- Ref.
-/Ref.1
-#00000000
- Alleluja, alleluja... (9x)
+ \GDm; \GGm; \GH-; \GF; \GDm; \GC; \GDm; \GC; \GDm;
+ \GDm;Nézzétek az ég madarait,
+ \GGm;nézzétek a rét virágait,
+ \GH-;csűrökbe \GF;sosem gyűjte\GDm;nek,
+ \GC;Mennyei \GDm;Atyánk \GC;gondozza \GDm;őket.
 /2
 #00000000
- Ne gyűjts itt, a földön kincseket, ott vamn a szíved, hol őrzöd kincseidet,
- Isten országa a te házad, egyedül Őt szolgáld, az ég Urát.
- Keressétek az Isten országát, keressétek az Ő igazságát,
- Isten útján járjad életed, Atyánk megadja majd, mindazt, mi kell néked.
-/Ref.2
+ Ki \GDm;táplálja az ég madarait,
+ ki \GGm;öltözteti a rét virágait,
+ \GH-;jól tudja azt, hogy \GF;ezek kelle\GDm;nek,
+ \GC;mért nyugta\GDm;lan \GC;a szíve\GDm;tek?
+/Refr
 #00000000
- Alleluja, alleluja... (9x)
+ |:\GF;Alleluja, \GGm;alleluja, \GA;alleluja, \GDm;alleluja!:|
+ \GC7;Alleluja, alle\GF;luja!
+ |:\GF;Alleluja, \GGm;alleluja, \GA;alleluja, \GDm;alleluja!:|
+/3
+#00000000
+ \GDm;Ne gyűjts itt a földön kincseket,
+ \GGm;ott van a szíved, hol őrzöd kincsedet,
+ \GH-;Isten orszá\GF;ga a te ha\GDm;zád.
+ \GC;Egyedül \GDm;Őt szolgáld,\GC; az ég U\GDm;rát!
+/4
+#00000000
+ \GDm;Keressétek az Isten országát,
+ \GGm;keressétek az Ő igazságát,
+ \GH-;Isten útján \GF;járjad éle\GDm;ted,
+ \GC;Atyánk \GDm;megadja majd,\GC; mindazt, mi \GDm;kell neked.
+/Refr
+#00000000
+ |:\GF;Alleluja, \GGm;alleluja, \GA;alleluja, \GDm;alleluja!:|
+ \GC7;Alleluja, alle\GF;luja!
+ |:\GF;Alleluja, \GGm;alleluja, \GA;alleluja, \GDm;alleluja!:|
+
 ;************************
 >Oldani Uram
 /1
@@ -1351,6 +1633,20 @@ RGödi Gitáros énekek
  hallgass el engem.
  Ki látod, mit teszek,
  hallgass el engem.
+
+;************************
+>Ó, te vagy Uram K.178
+/1
+#00000000
+ I: Ó, t\GA;e vagy ur\GD;am,\GA; vágyam \GD;és öröm\GA;öm,\GF+m; Te v\Gcism;igyázol r\GD;ám\Ghm;\GD;. \GE;:I\GE7;
+ M\GA;ikor az \GD;Úr ránk tal\GA;ált, \GD;úgy tűnt, mi\GD;ntha álmodn\GA;ánk, 
+ a sz\GC;ánk megtelt n\GC;evetéss\GG;el és ny\GD;elvünk \Ghm;ujjongáss\GE;al.\GG;\GE;\GE7;
+/2
+#00000000
+ I: Ó, t\GA;e vagy ur\GD;am,\GA; vágyam \GD;és öröm\GA;öm,\GF+m; Te v\Gcism;igyázol r\GD;ám\Ghm;\GD;. \GE;:I\GE7;
+ H\GA;atalmasat t\GD;ett vel\GA;ünk, sz\GD;ívünkből \GD;örvendez\GA;ünk, 
+ k\GC;ik könnyek k\GC;özött vetn\GG;ek, v\GD;igadva k\Ghm;évét szedn\GE;ek!\GG;\GE;\GE7;
+ Ref.
 ;************************
 >Ott lélegzel a fában Z.403
 #00000000
@@ -1362,6 +1658,7 @@ RGödi Gitáros énekek
  jó leborulni előtted.
  Te vagy az útnak a vége:
  Szent mélység, áldott béke.
+
 ;************************
 >Rád bízom, Rád bízom S.147
 /1
@@ -1404,6 +1701,7 @@ RGödi Gitáros énekek
  Jézus, Te vagy a mi Királyunk,
  Téged leborulva szívből imádunk,
  - örökké dicsérünk ...
+
 ;************************
 >Szent, szent a neve K.187
 /1
@@ -1414,38 +1712,52 @@ RGödi Gitáros énekek
  csak hogy szolgálhassam Jézust. 
  Boldogan megvallhatom, Ő a cél, 
  meghaltam, de élek Jézus Krisztusért.
+
 ;************************
 >Szentlélek K.190
-/Ref.1
-#00000000
- |:Szentlélek, úgy kérünk, szállj le ránk,
- töltsd el a szívünk, életünk,
- hogy béke és áldás szálljon ránk,
- küldd el a Lelked, úgy kérünk, Istenünk.:|
 /1
 #00000000
- Kegyelmeddel táplálsz, Istenünk,
- hozzád emeljük most mindnyájan a szívünk,
- reménységünk Belőled fakad,
- hogyha szívünk -lelkünk mindentől szabad.
-/Ref.2
-#00000000
- Szentlélek, úgy kérünk, szállj le ránk,
- töltsd el a szívünk, életünk,
- hogy béke és áldás szálljon ránk,
- küldd el a Lelked, úgy kérünk, Istenünk.
+ |:Szen\GG4;tlél\GG;ek, úgy k\GG4;érünk, szállj le r\GG;ánk,
+ töltsd el a sz\GC;ívünk\Gam;, élet\GD;ünk,
+ hogy \GG4;bék\GG;e és \GG4;áldás szálljon r\GG;ánk,
+ küldd el a L\GC;elked, úgy k\GD;érünk, Isten\GG;ünk.:|
 /2
 #00000000
- Ajándékul Lelked küldted el,
- hogy ne önmagunknak, hanem annak éljünk,
- aki értünk életét adta.
- Mi is átadjuk most Néked életünk.
-/Ref.3
+ K\GG;egyelmeddel t\GD;áplálsz, Istenünk,\Gem;
+ \Gem;hozzád \Gam;emeljük most mindnyájan a sz\GD;ívünk,
+ r\GG;eménységünk B\GD;előled fakad,\Gem;
+ h\GC;ogyha sz\Gam;ívünk -lelkünk mindentől szabad.\GD;
+/3
 #00000000
- |:Szentlélek, úgy kérünk, szállj le ránk,
- töltsd el a szívünk, életünk,
- hogy béke és áldás szálljon ránk,
- küldd el a Lelked, úgy kérünk, Istenünk.:|
+ Szen\GG4;tlél\GG;ek, úgy k\GG4;érünk, szállj le r\GG;ánk,
+ töltsd el a sz\GC;ívünk\Gam;, élet\GD;ünk,
+ hogy \GG4;bék\GG;e és \GG4;áldás szálljon r\GG;ánk,
+ küldd el a L\GC;elked, úgy k\GD;érünk, Isten\GG;ünk.
+/4
+#00000000
+ \GG;Ajándékul L\GD;elked küldted el,\Gem;
+ \Gem;hogy ne \Gam;önmagunknak, hanem annak \GD;éljünk,
+ \GG;aki értünk \GD;életét adta.\Gem;
+ M\GC;i is \Gam;átadjuk most Néked életünk.\GD;
+/5
+#00000000
+ |:Szen\GG4;tlél\GG;ek, úgy k\GG4;érünk, szállj le r\GG;ánk,
+ töltsd el a sz\GC;ívünk\Gam;, élet\GD;ünk,
+ hogy \GG4;bék\GG;e és \GG4;áldás szálljon r\GG;ánk,
+ küldd el a L\GC;elked, úgy k\GD;érünk, Isten\GG;ünk.:|
+
+;************************
+>Szent vagy! K.159
+/1
+#00000000
+ \GC7;Szent v\GF;agy! Sz\GC7;ent v\GF;agy! 
+ Sz\GH-;ent vagy!M\GC7;indenség Ura, \GF;Istene!
+ \GC7;Dicsős\GF;éged b\GC7;etölt\GF;i 
+ a m\GH-;ennyet \GC7;és a föld\GF;et!
+ H\GC7;ozsanna a magasságb\GF;an!
+ |:\Ggm;Áldott, ki j\GC7;ön az \GF;Úr nevéb\Gdm;en,
+ H\GC7;ozsanna a magasságb\GF;an!:|
+
 ;************************
 >Szent vagy! K.193
 /1
@@ -1466,6 +1778,7 @@ RGödi Gitáros énekek
  |:Hozsanna a magasságban!
  Áldott, ki az Úr nevében jő!
  Hozsanna a magasságban!:|
+
 ;************************
 >Szent vagy (2) K.192
 /1
@@ -1475,6 +1788,7 @@ Dicsőséged betölti a mennyet és a földet,
 Hozsanna a magasságban, 
 Szent vagy:I szent vagy, szent vagy, szent vagy, mindenségnek Ura, Istene,
 Ó áldott, ki az Úr nevében eljő mihozzánk, hozsanna a magasságban!
+
 ;************************
 >Szent vagy M.123
 /1
@@ -1489,6 +1803,7 @@ Szent vagy:I szent vagy, szent vagy, szent vagy, mindenségnek Ura, Istene,
  mindenségnek Ura, Istene,
  Ó, áldott, ki az Úr nevében eljön mihozzánk,
  hozsanna a magasságban!
+
 ;************************
 >Szent Vagy (Gen)
 /1
@@ -1504,6 +1819,7 @@ Szent vagy:I szent vagy, szent vagy, szent vagy, mindenségnek Ura, Istene,
  Áldott, ki jő az Úr nevében hozzánk
  
  ||:Hozsanna,......
+
 ;************************
 >Szeretet áradjon K.265
 /1
@@ -1512,6 +1828,7 @@ Szent vagy:I szent vagy, szent vagy, szent vagy, mindenségnek Ura, Istene,
  szeretet t\GG;örts\Gem;ön el m\GA;inket, add ezt nek\GD;ünk Ur\GD7;unk,
  hadd legyünk t\GG;estv\Gem;éri sz\GA;ívvel, mindnyájan \GD;e\GFis;gyek Benn\Ghm;ed,
  lobbantsa l\GG;ángr\Gem;a szív\GA;ünket sz\GDA7;eretet\GD;ed!
+
 ;************************
 >Szeretünk Téged, Mária
 /1
@@ -1553,6 +1870,7 @@ Szent vagy:I szent vagy, szent vagy, szent vagy, mindenségnek Ura, Istene,
  \Gam;Jöjj közel \Gem;hát, \GD;ölelj most \GC;át, 
  szükségem v\GD;an R\GG;ád!\GD;\Gem;
  \GD;szükségem van R\GG;ád!
+
 ;************************
 >Tápláló szent kenyér Z.224
 /1
@@ -1561,6 +1879,7 @@ Szent vagy:I szent vagy, szent vagy, szent vagy, mindenségnek Ura, Istene,
  Betölti \Gem;szívemet a Végtel\GA;en!
  Békémnek z\GD;áloga, lelkemnek \Ghm;otthona,
  Formáld át \Gem;életem, légy vel\GA;em!
+
 ;************************
 >Tárd ki karod -k.202
 /1
@@ -1591,20 +1910,21 @@ Szent vagy:I szent vagy, szent vagy, szent vagy, mindenségnek Ura, Istene,
  \Gdm;Várja szíved az olt\GG7;ár,  \GE;hajolj a mély fölé\Gdm;,
  ki s\GF;enkié sem volt\GC;ál, l\GG7;egyél mindenkié\GC;!
  l\GG7;egyél mindenki\GCé, l\GG7;egyél mindenki\GCé!…
+
 ;************************
 >Te vagy az út M116
 /1
 #00000000
  \GE;Te vagy az \GH7;út, az igaz\GA;ság, Te vagy az \GE;élet!
  \GE;Hozzád \GH7;megyek áldom Ne\GA;ved, általad \GE;élek.
- |:\GA;Megszabadítot\Gfism;tál, \GE;kenyeret s bort ad\Gcism;tál.
+ |:\GA;Megszabadítot\GF+m;tál, \GE;kenyeret s bort ad\Gcism;tál.
  \GE;Tested és véred \GH7;táplál, hűséged \GE;éltet, alleluja!:| \GC7;
 /2
 #00000000
  \GC7;
- \GF;Te vagy az \GC;út, az igaz\GB;ság, Te vagy az \GF;élet!
- \GF;Hozzád \GC;megyek áldom Ne\GB;ved, általad \GF;élek.
- |:\GB;Megszabadítot\Ggm;tál, \GF;kenyeret s bort ad\Gdm;tál.
+ \GF;Te vagy az \GC;út, az igaz\GH-;ság, Te vagy az \GF;élet!
+ \GF;Hozzád \GC;megyek áldom Ne\GH-;ved, általad \GF;élek.
+ |:\GH-;Megszabadítot\Ggm;tál, \GF;kenyeret s bort ad\Gdm;tál.
  \GF;Tested és véred \GC7;táplál, hűséged \GF;éltet, alleluja!:|\GD7;
 /3
 #00000000
@@ -1630,16 +1950,18 @@ Szent vagy:I szent vagy, szent vagy, szent vagy, mindenségnek Ura, Istene,
  
  \GG;Tégy engem \GC;szívedre \GD;pecsét\GG;nek, 
  \GG;tégy engem \GC;pecsétnek \GD;karodra!
+
 ;************************
 >Teremts bennem K.208   
 /1
 #00000000
   |:\GG;Teremts bennem \GD;tiszta szí\GC;vet, ó U\GG;ram!
  Az \GEm;erős lelket \GD;újítsd meg ben\GG;nem!:|\GG7;
- |:\GAm;Ne vess el en\GD;gem a Te or\GG;cád e\GEm7;lől!
+ |:\GAm;Ne vess el en\GD;gem a Te or\GG;cád e\GE;lől!
  \GAm;Szentlelkedet \GD;ne vond meg tő\GG;lem\GG7;!
- \GAm;Támogass az \GD;engedelmes\GG;ség lelké\GEm7;vel!
- \GAm7;Szabadításod \GD7;örömét add ne\GG;kem!\GG7;:|
+ \GAm;Támogass az \GD;engedelmes\GG;ség lelké\GE;vel!
+ \GAm;Szabadításod \GD;örömét add ne\GG;kem!\GG7;:|
+
 ;************************
 >Tied a dicsőség
 /1
@@ -1664,6 +1986,7 @@ Szent vagy:I szent vagy, szent vagy, szent vagy, mindenségnek Ura, Istene,
  csodákat t\Gam;esz,
  Veled s\Gam;enki nem ér f\GF;el,
  \Gdm;Veled s\GG;enki nem ér f\GG;el!:ll
+
 ;************************
 >Tied vagyunk K.213
 /1
@@ -1713,6 +2036,7 @@ Szent vagy:I szent vagy, szent vagy, szent vagy, mindenségnek Ura, Istene,
  \GDm;Emeld két karom, hogy átö\GGm;leljen\GGm6;!\GDm;
  |:\GC7;Mentsd meg a \GF;lelkem, hogy \GGm;Benned éljek!:| (3x)
  \GC7;Mentsd meg a \GF;lelkem!
+
 ;************************
 >Tüzed, Uram Jézus
 /1
@@ -1751,8 +2075,19 @@ Szent vagy:I szent vagy, szent vagy, szent vagy, mindenségnek Ura, Istene,
  \GAm;Fény a sö\GDm;tétben \GG;csak Te vagy ne\GC;kem.
  \GD7;Hal\GE7;lod i\GAm;mám, \GAm7;és \GDm;bármi \GG7;fenye\GC;get,
  \GD7;nem \GE7;hagy el \GAm;en\GAm7;gem, \GDm6;tart a \GE;Te ke\GAm;zed!
-;************************
 
+;************************
+>Uram, irgalmazz K.159
+/1
+#00000000
+ \Gdm;Uram irgalm\Ggm;azz!
+ \GC7;Uram irgalm\GF;azz!
+ \Gdm;Krisztus kegyelm\Ggm;ezz!
+ \GC7;Krisztus kegyelm\GF;ezz!
+ \Gdm;Uram irgalm\Ggm;azz!
+ \GA7;Uram irgalm\Gdm;azz!
+
+;************************
 >Uram, irgalmazz K.129B
 /1
 #00000000
@@ -1772,6 +2107,7 @@ Szent vagy:I szent vagy, szent vagy, szent vagy, mindenségnek Ura, Istene,
  Uram \GD;irgalmazz nekünk!
  Uram \Gem;irgalm\GA;azz nekü\GG;nk!\GD;
  Uram \Gem;irgalm\GA;azz nekü\GG;nk!\GD;
+
 ;************************
 >Uram, Tehozzád futok K.353
 /1
@@ -1780,6 +2116,7 @@ Szent vagy:I szent vagy, szent vagy, szent vagy, mindenségnek Ura, Istene,
  I: T\Gem;ehozzád futok, \GD;élő v\Ghm7;ízre szomjazom, \Gem;közels\GC;éged ó mily j\GD;ó énnekem\Gem;. Kérlek, n\Gem;e menj el től\GD;em, légy mind\Ghm7;ig segítség\Gem;em, úgy kívá\GC;nlak T\GD;éged, Istenem\Gem;.
  \Gem;Én pedig szüntelen remél\GD;ek, egyre job\Ghm7;ban dicsérlek\Gem;, ajkam b\Gam7;eszéli a Te \Gam;i\GFis;gazságodat\GH4;.
  \GH;Hadd legyen most a dalom \GD;jó ill\Ghm7;at oltárodon\Gem;, nagyon sz\GC;eretlek Tég\GD;ed, Jézusom. \Gem;Uram :I
+
 ;************************
 >Üdvözlégy Mária Z.280
 /1
@@ -1792,17 +2129,21 @@ Szent vagy:I szent vagy, szent vagy, szent vagy, mindenségnek Ura, Istene,
  \GG;Asszonyunk Sz\GD;űz Mári\GG;a, \GE;Istennek Szent Anyj\Gam;a.
  \Gam;Imádkozz \Gem;érettünk, b\GC;űnösök\GH7;ért.
  M\Gem;ost és h\GG;alálunk \Gam;óráj\GH7;án, Ám\Gem;en. \Gem7;\Gem6;\GH7;
+
 ;************************
 >Várj és ne félj T.48
 /1
 #00000000
- Wait for the Lord, whose day is near.
- Wait for the Lord: keep watch, take heart!
-/2
-#00000000
  V\Gem;árj és ne f\GC;élj, az Ú\Gam6;r jön m\GH;ár.
- V\Gem;árj \GD;és ne f\GC;élj: hű sz\Gam7;ívv\GH;el v\Gem;árj!
+ V\Gem;árj \GD;és ne f\GC;élj: hű s\Gam;zívv\GH7;el v\Gem;árj!
 
+;************************
+>Veled ó, Uram  T.58
+/1
+#00000000
+ Veled \Ghm;ó, Uram s\GA;ötét \GD;éjünk n\GG;em söt\GF+;ét
+ mert m\Ghm;int a n\GA;appal f\GD;ényl\Gem;ik az \GF+;éjjel
+ 
 ;************************
 >Volt egyszer egy király K.228
 /1
@@ -1831,6 +2172,7 @@ Szent vagy:I szent vagy, szent vagy, szent vagy, mindenségnek Ura, Istene,
  tá\Gdm;n észre se\Gem;m veszed, ú\Gam;gy fogja ké\GG7;t kezed!:|
 
 ;************************
+
 ;S **************************************
 
 >Mert Te Uram
